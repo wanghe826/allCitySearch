@@ -6,6 +6,11 @@ SelectCityTableViewController* vc = [SelectCityTableViewController new];
     vc.selectCallback = ^(NSString* city){
         NSLog(@"选择了--->%@", city);
     };
-    UINavigationController* navi = [[UINavigationController alloc] initWithRootViewController:vc];
-    [self presentViewController:navi animated:YES completion:nil];
+UINavigationController* navi = [[UINavigationController alloc] initWithRootViewController:vc];
+[self presentViewController:navi animated:YES completion:nil];
+
 ```
+
+![Aaron Swartz](https://github.com/wanghe826/allCitySearch/blob/master/selectCity.gif)
+
+<small>_加入iOS开发交流群，限时免费获得企业证书,129048731_</small>
