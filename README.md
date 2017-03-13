@@ -13,4 +13,4 @@ UINavigationController* navi = [[UINavigationController alloc] initWithRootViewC
 
 ![Aaron Swartz](https://github.com/wanghe826/allCitySearch/blob/master/selectCity.gif)
 
-<small>_加入iOS开发交流群，限时免费获得企业证书,129048731_</small>
+<small>_加入iOS开发交流群，免费提供企业证书使用😁 129048731_</small>
